@@ -1,9 +1,8 @@
 # practice
 # Веб-портфолио по учебной практике
-<a href="https://bolzuka.github.io" rel="nofollow">Портфолио студента https://bolzuka.github.io</a>
 Выполнил: Кузнецов Илья Дмитриевич, ИВТ, 1 курс, 2 семестр, 2022 год
 Задания.
-1.1
+1.1 <a href="https://bolzuka.github.io" rel="nofollow">Задание 1.1</a>
 1.2
 1.3
 1.4
