@@ -2,7 +2,7 @@
 # Веб-портфолио по учебной практике
 Выполнил: Кузнецов Илья Дмитриевич, ИВТ, 1 курс, 2 семестр, 2022 год                                                                                                            
 Задания.                                                                                                                                        
-<a href="https://bolzuka.github.io" rel="nofollow">Задание 1.1</a>                                                                                                            
+<a href="https://github.com/Ratiousq/practice/blob/main/Задание%201.1.pdf" rel="nofollow">Задание 1.1</a>                                                                                                            
 <a href="https://bolzuka.github.io" rel="nofollow">Задание 1.2</a>                                                                                                           
 <a href="https://bolzuka.github.io" rel="nofollow">Задание 1.3</a>                                                                                                           
 <a href="https://bolzuka.github.io" rel="nofollow">Задание 1.4</a>                                                                                                           
