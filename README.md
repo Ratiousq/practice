@@ -13,7 +13,6 @@
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%201.9.pdf" rel="nofollow">Задание 1.9</a>                                                                                                           
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%201.10.pdf" rel="nofollow">Задание 1.10</a>                                                                                                           
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%201.11.pdf" rel="nofollow">Задание 1.11</a> 
-
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%202.1.pdf" rel="nofollow">Задание 2.1</a>                                         
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%202.2.pdf" rel="nofollow">Задание 2.2</a>                                                     
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%202.3.1.pdf" rel="nofollow">Задание 2.3</a>                                                     
