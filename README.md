@@ -17,4 +17,4 @@
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%202.2.pdf" rel="nofollow">Задание 2.2</a>                                                     
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%202.3.1.pdf" rel="nofollow">Задание 2.3</a>                                                     
 <a href="https://github.com/Ratiousq/practice/blob/main/Задание%202.4.1.pdf" rel="nofollow">Задание 2.4</a>                                                        
-<a href="https://github.com/Ratiousq/practice/blob/main/Отчет%2C%20Кузнецов%20И.Д..docx" rel="nofollow">Отчет по практикес QR- кодами</a> 
+<a href="https://github.com/Ratiousq/practice/blob/main/Отчет%2C%20Кузнецов%20И.Д..docx" rel="nofollow">Отчет по практике с QR- кодами</a> 
